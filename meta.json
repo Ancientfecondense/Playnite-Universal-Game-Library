@@ -1,0 +1,23 @@
+{
+  "repo": "playnite-universal-game-library",
+  "product": "Playnite Universal Game Library",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "playnite-universal-game-library",
+    "playnite-universal",
+    "playnite-universal-library",
+    "how-to-install-playnite-universal",
+    "how-to-setup-playnite-universal",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "playnite-game"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Playnite Universal Game Library"
+}
